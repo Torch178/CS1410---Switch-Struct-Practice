@@ -1,6 +1,6 @@
 # CS1410---Switch-Struct-Practice
 
-A simple program to practice using structs, enum and switches in order to store and output rating information for a movie,
+A simple program to practice using structs, enum and switches in order to store and output rating information for a movie.
 
 <b>Program Execution Screenshot</b>
 
